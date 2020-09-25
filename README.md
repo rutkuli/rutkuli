@@ -13,7 +13,7 @@
 
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 
- ### Rutkuli's current github stats
+ ### My current github stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutkuli&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutkuli&show_icons=true&theme=radical&line_height=21" alt="Rutkuli's github stats"/>
