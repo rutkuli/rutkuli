@@ -14,7 +14,7 @@
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 
  ### My current github stats
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutkuli&show_icons=true&theme=radical&line_height=21" alt="Rutkuli's github stats"/>
 </p>
 
