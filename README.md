@@ -1,7 +1,3 @@
-
-<!--
-**rutkuli/rutkuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### [My website](https://hexproject.xyz/) 
 <a href="https://discord.gg/j422Xj9">
   <img align="left" alt="Hex-bot discord server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -34,4 +30,8 @@
 <br />
 
 </pre>
+
+<!--
+**rutkuli/rutkuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
