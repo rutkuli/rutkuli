@@ -13,7 +13,7 @@
 
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 ## Currently playing on spotify
-[![Spotify](https://novatorem.rutkuli.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.rutkuli.vercel.app/api/spotify)](https://open.spotify.com/user/rutkuli)
 
  ### My current github stats
  <a href="https://github.com/rutkuli">
