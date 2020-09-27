@@ -13,7 +13,7 @@
 
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 ## Currently playing on spotify
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
  ### My current github stats
  <a href="https://github.com/rutkuli">
