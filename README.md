@@ -12,7 +12,8 @@
 <br />
 
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
-
+## Currently playing on spotify
+[![Spotify](https://novatorem-git-master.rutkuli.vercel.app//api/spotify)]
  ### My current github stats
  <a href="https://github.com/rutkuli">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutkuli&theme=dark&hide_langs_below=1" />
