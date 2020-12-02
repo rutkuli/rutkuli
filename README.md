@@ -13,6 +13,9 @@
 
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 
+
+![](https://i.imgur.com/mp0WyZW.mp4)
+
  ### My current github stats
  <a href="https://github.com/rutkuli">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutkuli&theme=dark&hide_langs_below=1" />
