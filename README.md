@@ -18,11 +18,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutkuli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Rutkuli's github stats"/>
 </p>
 
-![](https://user-images.githubusercontent.com/44347946/100876634-529f6b80-34b0-11eb-99b1-add710316966.gif)
-<a href="https://github.com/rutkuli">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutkuli&theme=dark&hide_langs_below=1" />
-</a>
-
 <br />
 
 </pre> 
