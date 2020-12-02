@@ -14,7 +14,7 @@
 [See on Gitstalk](https://gitstalk.netlify.app/rutkuli)
 
 
-![Imgur](https://i.imgur.com/sY1Bh3v.gif)
+![Imgur](https://media.giphy.com/media/I47zzRMHcPtGYzCT1d/giphy.gif)
 
  ### My current github stats
  <a href="https://github.com/rutkuli">
