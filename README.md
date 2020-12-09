@@ -8,7 +8,7 @@
   <a href="https://github.com/rutkuli">
    <img alt="Github" src="https://img.shields.io/github/followers/Rutkuli?color=1DA1F2&logo=github&label=Follow&style=for-the-badge"></a>   
    <a href="https://rutkuli.github.io/">
-   <img alt="Github" src="https://img.shields.io/website?label=rutkuli.github.io&style=for-the-badge&url=https%3A%2F%2rutkuli.github.io"></a> 
+   <img alt="Github" src="https://img.shields.io/website?label=rutkuli.github.io&style=for-the-badge&url=https://rutkuli.github.io/"></a> 
 </p>
 
 
