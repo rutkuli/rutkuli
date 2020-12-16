@@ -26,7 +26,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutkuli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Rutkuli's github stats"/>
 </p>
-
+<p align="center">
+![giphy](https://user-images.githubusercontent.com/44347946/102328882-52af6900-3f90-11eb-97be-7dd2823beaf1.gif)
+</p>
 <br />
 
 </pre> 
