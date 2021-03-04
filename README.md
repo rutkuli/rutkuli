@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co/">
+  <a href="https://rustylake.xyz">
     <img src="https://i.imgur.com/M2Uhzyn.png"></a>
 </p>
 <p align="center">
