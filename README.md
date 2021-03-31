@@ -7,8 +7,8 @@
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Rutkuli%236666-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
   <a href="https://github.com/rutkuli">
    <img alt="Github" src="https://img.shields.io/github/followers/Rutkuli?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
-   <a href="https://rutkuli.github.io/">
-   <img alt="Github" src="https://img.shields.io/website?label=rutkuli.github.io&style=for-the-badge&url=https://rutkuli.github.io/"></a> 
+   <a href="https://rutkuli.is-a.dev/">
+   <img alt="Github" src="https://img.shields.io/website?label=rutkuli.is-a.dev&style=for-the-badge&url=https://rutkuli.is-a.dev/"></a> 
 </p>
 
 
