@@ -39,12 +39,13 @@
 <p align="center">E-Mail: rutkuliofficial@gmail.com</p>
 <h4 align="center">For any requests or other</h4>
 <p align="center">Discord Server: https://hexbot.me/support</p>
-</pre>
+</pre><br>
 
 
-# Discord Profile
-![Discord](https://discord.c99.nl/widget/theme-3/749998774566387742.png)
-
+<h2 align="center">Discord Profile</h2><br>
+<p align="center">
+  ![Discord](https://discord.c99.nl/widget/theme-3/749998774566387742.png)
+</p>
 
 <!--
 **rutkuli/rutkuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
