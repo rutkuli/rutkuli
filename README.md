@@ -43,9 +43,7 @@
 
 
 <h2 align="center">Discord Profile</h2><br>
-<p align="center">
   ![Discord](https://discord.c99.nl/widget/theme-3/749998774566387742.png)
-</p>
 
 <!--
 **rutkuli/rutkuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
