@@ -40,6 +40,7 @@
 <h4 align="center">For any requests or other</h4>
 <p align="center">Discord Server: https://hexbot.me/support</p>
 </pre> 
+![Discord](https://discord.c99.nl/widget/theme-5/749998774566387742.png)
 
 
 <!--
