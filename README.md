@@ -37,8 +37,6 @@
 <h4 align="center">for Business inquiries</h4>
 <p align="center">Discord: Rutkuli#4866</p>
 <p align="center">E-Mail: rutkuliofficial@gmail.com</p>
-<h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://hexbot.me/support</p>
 </pre><br>
 
 
