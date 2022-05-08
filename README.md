@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rutkuli.is-a.dev/">
-    <img src="https://user-images.githubusercontent.com/44347946/125663447-285e0715-057d-42fa-a173-d313aa7f8ab9.png"></a>
+    <img src="https://user-images.githubusercontent.com/44347946/167319391-c14f9d01-3749-4c6c-9eb5-c237b7271102.jpg"></a>
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/749998774566387742">
