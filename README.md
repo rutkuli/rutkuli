@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/44347946/171066945-17879ba9-7ba2-4909-b409-8ce3bd8344c5.jpg" width="250" /> 
+<img align="left" src="https://user-images.githubusercontent.com/44347946/171067492-dd03fddd-9e92-4f35-9c42-1165a434d048.jpg" width="250" /> 
 
 ```python
 Check out my profile and projects
