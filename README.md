@@ -5,10 +5,10 @@ Check out my profile and projects
 Leave a star while your at it :)
  -------------
 
-Name  =  "Rutkuli"
-Interests  =  "Open-source projects, Development, UI & UX design"
-Languages  =  "TypeScript, JavaScript, C++
-Twitter    =  "@rutkuli"
-Website    =  "https://rutkuli.is-a.dev"
-Contact    =  "rutkuliofficial@gmail.com"
+Name  =  'Rutkuli'
+Interests  =  'Open-source projects, Development, UI & UX design'
+Languages  =  'TypeScript, JavaScript, C++'
+Twitter    =  '@rutkuli'
+Website    =  'https://rutkuli.is-a.dev'
+Contact    =  'rutkuliofficial@gmail.com'
 ```
