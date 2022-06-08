@@ -5,7 +5,7 @@ Check out my profile and projects
 Leave a star while your at it :)
  -------------
 
-Name  =  'Rutkuli'
+Name       =  'Rutkuli'
 Interests  =  'Open-source projects, Development, UI & UX design'
 Languages  =  'TypeScript, JavaScript, C++'
 Twitter    =  '@rutkuli'
