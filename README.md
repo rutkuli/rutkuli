@@ -17,6 +17,6 @@
  <a href="https://discordapp.com/users/749998774566387742" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rutkuliofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://user-images.githubusercontent.com/44347946/203120348-e3aa63c0-04de-49ec-b520-f35e23e75151.svg)
+ ![Snake animation](https://user-images.githubusercontent.com/44347946/203130556-193ad695-7495-492c-9ee0-6c74d357d2db.svg)
  
 </div>
