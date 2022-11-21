@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutkuli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Blank-Image" height="30" width="40" src="data:,">
   <img align="right" alt="Rutkuli-picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44347946/203125594-2a39d7b3-25f3-4d21-b9ef-bc41f545f0ac.png">
 </div>
   
