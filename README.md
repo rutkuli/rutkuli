@@ -17,6 +17,6 @@
 	<a href = "mailto:rutkuliofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<img align="right" height="200" src="https://user-images.githubusercontent.com/44347946/203125594-2a39d7b3-25f3-4d21-b9ef-bc41f545f0ac.png"  />
 </div>
-<img src="https://raw.githubusercontent.com/rutkuli/rutkuli/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rutkuli/rutkuli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ###
