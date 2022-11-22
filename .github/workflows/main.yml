@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "5 */0 * * *" # every 6 hours
 
 jobs:
   generate:
@@ -14,7 +14,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: rutkuli
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
